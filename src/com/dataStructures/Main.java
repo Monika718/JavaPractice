@@ -1,7 +1,5 @@
 package com.dataStructures;
 
-import static java.sql.Types.NULL;
-
 public class Main {
 
     public static void addTreeNode(BinaryTreeNode parent, BinaryTreeNode child, String direction) {
